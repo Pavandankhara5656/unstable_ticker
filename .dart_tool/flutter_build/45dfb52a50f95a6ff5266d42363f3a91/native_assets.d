@@ -1,0 +1,1 @@
+ D:\\unstable_ticker\\.dart_tool\\flutter_build\\45dfb52a50f95a6ff5266d42363f3a91\\native_assets.yaml: 
